@@ -17,7 +17,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # Bot tokeni (BotFather dan oling)
-BOT_TOKEN = "8709080386:AAGWNe1mOTIqGDBFwBFM-1SHlg8gmcVtBvs"
+BOT_TOKEN = "8818398233:AAHinD_UrgkeoxOXGVeWjG3xneofcHLJf1I"
 
 # Conversation holatlari
 (
